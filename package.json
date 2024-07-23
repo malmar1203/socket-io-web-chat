@@ -1,0 +1,8 @@
+{
+  "name": "simple-chat",
+  "version": "0.0.1",
+  "description": "simplest chat",
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
